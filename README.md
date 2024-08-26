@@ -1,14 +1,16 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Tushar+Sarkar....;Nice+to+meet+you!&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Md+Imran+Hosen....;Nice+to+meet+you!&center=true&size=25">
   </a>
 </h1>
-#### B.Sc. Engineering in CSE from Bangabandhu Sheikh Mujibur Rahman University of Science and Technology, Gopalganj.
-- I'm pationate about C++, Java, c#, JavaScript, React.js, ASP.NET.
-- I'm currently learning ASP.NET
+
+# I'm Md Imran Hosen, 
+#### Graduated in CSE from Bangabandhu Sheikh Mujibur Rahman University of Science and Technology, Gopalganj-8100, Bangladesh.
+- I'm pationate about C++, Java, JavaScript and React.js.
+- I'm currently learning Node.js
 - I'm competetive programmer.💻
-- How to reach me: <a href="mailto: tusharcse35.bsmrstu@gmail.com">tusharcse35.bsmrstu@gmail.com</a>
-- Here is my <a href="https://tushar35portfolio2.netlify.app/">Portfolio</a>
+- How to reach me: <a href="mailto: imranhosen.bsmrstu@gmail.com">imranhosen.bsmrstu@gmail.com</a>
+- Here is my <a href="https://imran-me.vercel.app/">Portfolio</a>
 <hr>
 
 <h3>🌐 Connect With Me:</h3>
