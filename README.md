@@ -15,10 +15,10 @@
 
 <h3>🌐 Connect With Me:</h3>
 <h3 style="display:flex">
-  <code><a href="https://www.linkedin.com/in/md-imran-hosen19/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code style="margin-left:5px"><a href="https://codeforces.com/profile/md_imran_hosen19" title="Codeforces Profile"><img width="22" src="images/code-forces.png"> Codeforces</a></code>
-  <code style="margin-left:5px"><a href="https://leetcode.com/md_imran_hosen19/" title="Leetcode Profile"><img width="22" src="images/leetcode.png">Leetcode</a></code>
-  <code style="margin-left:5px"><a href="https://m.me/ImranHosen.Bsmrstu" title="Facebook Profile"><img width="22" src="images/facebook.png">Facebook</a></code>
+  <code><a href="https://www.linkedin.com/in/tushar-sarkar-433726195/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code style="margin-left:5px"><a href="https://codeforces.com/profile/Tushar35" title="Codeforces Profile"><img width="22" src="images/code-forces.png"> Codeforces</a></code>
+  <code style="margin-left:5px"><a href="https://leetcode.com/u/TusharCSE35/" title="Leetcode Profile"><img width="22" src="images/leetcode.png">Leetcode</a></code>
+  <code style="margin-left:5px"><a href="https://www.facebook.com/tushar.sarkar.7186896" title="Facebook Profile"><img width="22" src="images/facebook.png">Facebook</a></code>
 </h3>
 
 <hr>
