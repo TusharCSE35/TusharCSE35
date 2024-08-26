@@ -15,11 +15,11 @@
 
 <h3>🌐 Connect With Me:</h3>
 <h3 style="display:flex">
-  <code><a href="https://www.linkedin.com/in/tushar-sarkar-433726195/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" style="filter: none;"> LinkedIn</a></code>
-  <code style="margin-left:5px"><a href="https://codeforces.com/profile/Tushar35" title="Codeforces Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/codeforces.svg" style="filter: none;"> Codeforces</a></code>
-  <code style="margin-left:5px"><a href="https://leetcode.com/u/TusharCSE35/" title="Leetcode Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/leetcode.svg" style="filter: none;"> Leetcode</a></code>
-  <code style="margin-left:5px"><a href="https://www.facebook.com/tushar.sarkar.7186896" title="Facebook Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/facebook.svg" style="filter: none;"> Facebook</a></code>
-  <code style="margin-left:5px"><a href="https://github.com/TusharCSE35" title="GitHub Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" style="filter: none;"> GitHub</a></code>
+  <code><a href="https://www.linkedin.com/in/tushar-sarkar-433726195/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/emoji-datasource@6.2.0/imgs/emoji/256x256/linkedin.png" alt="LinkedIn"> LinkedIn</a></code>
+  <code style="margin-left:5px"><a href="https://codeforces.com/profile/Tushar35" title="Codeforces Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/emoji-datasource@6.2.0/imgs/emoji/256x256/codeforces.png" alt="Codeforces"> Codeforces</a></code>
+  <code style="margin-left:5px"><a href="https://leetcode.com/u/TusharCSE35/" title="Leetcode Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/emoji-datasource@6.2.0/imgs/emoji/256x256/leetcode.png" alt="Leetcode"> Leetcode</a></code>
+  <code style="margin-left:5px"><a href="https://www.facebook.com/tushar.sarkar.7186896" title="Facebook Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/emoji-datasource@6.2.0/imgs/emoji/256x256/facebook.png" alt="Facebook"> Facebook</a></code>
+  <code style="margin-left:5px"><a href="https://github.com/TusharCSE35" title="GitHub Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/emoji-datasource@6.2.0/imgs/emoji/256x256/github.png" alt="GitHub"> GitHub</a></code>
 </h3>
 
 <hr>
