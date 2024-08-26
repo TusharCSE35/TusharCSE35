@@ -47,7 +47,7 @@
 <h2 align="center">⚡GitHub Stats⚡</h2>
  <table>
     <tr>
-        <td valign="top" style="width: 33%; text-align: center;">
+        <td valign="top" style="width: 20%; text-align: center;">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharCSE35&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="width: 100%; max-width: 400px;"/>
         </td>
         <td valign="top" style="width: 33%; text-align: center;">
