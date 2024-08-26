@@ -47,21 +47,21 @@
 <h2 align="center">⚡GitHub Stats⚡</h2>
  <table>
     <tr>
-        <td valign="top" style="width: 20%; text-align: center;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharCSE35&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="width: 100%; max-width: 400px;"/>
+        <td valign="top">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharCSE35&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
         </td>
-        <td valign="top" style="width: 33%; text-align: center;">
-            <img src="https://github-readme-stats.vercel.app/api?username=TusharCSE35&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="width: 100%; max-width: 400px;"/>
+        <td valign="top">
+            <img src="https://github-readme-stats.vercel.app/api?username=TusharCSE35&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
         </td>
     </tr>
     <tr>
-        <td valign="top" style="width: 33%; text-align: center;">
+        <td valign="top">
             <a href="https://git.io/streak-stats">
-                <img src="https://github-readme-streak-stats.herokuapp.com?user=TusharCSE35&theme=dark&mode=weekly" alt="GitHub Streak" style="width: 100%; max-width: 400px;"/>
+                <img src="https://github-readme-streak-stats.herokuapp.com?user=TusharCSE35&theme=dark&mode=weekly" alt="GitHub Streak" />
             </a>
         </td>
         <!-- Add a fourth column here if needed -->
-        <td valign="top" style="width: 33%; text-align: center;">
+        <td valign="top">
             <!-- Add your fourth activity image or content here -->
         </td>
     </tr>
