@@ -60,10 +60,6 @@
                 <img src="https://github-readme-streak-stats.herokuapp.com?user=TusharCSE35&theme=dark&mode=weekly" alt="GitHub Streak" />
             </a>
         </td>
-        <!-- Add a fourth column here if needed -->
-        <td valign="top">
-            <!-- Add your fourth activity image or content here -->
-        </td>
     </tr>
 </table>
 </h2>
