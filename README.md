@@ -5,14 +5,19 @@
 </h1>
 
 <img src="https://pbs.twimg.com/profile_banners/1143235591623962624/1724678131/1080x360" alt="Banner Image" width="100%">
+
 <hr>
+
 #### Graduated in CSE from Bangabandhu Sheikh Mujibur Rahman University of Science and Technology, Gopalganj-8100, Bangladesh.
-- I'm pationate about C++, Java, JavaScript and React.js.
-- I'm currently learning Node.js
-- I'm competetive programmer.💻
-- How to reach me: <a href="mailto: imranhosen.bsmrstu@gmail.com">imranhosen.bsmrstu@gmail.com</a>
+
+- I'm passionate about C++, Java, JavaScript, and React.js.
+- I'm currently learning Node.js.
+- I'm a competitive programmer. 💻
+- How to reach me: <a href="mailto:imranhosen.bsmrstu@gmail.com">imranhosen.bsmrstu@gmail.com</a>
 - Here is my <a href="https://imran-me.vercel.app/">Portfolio</a>
+
 <hr>
+
 
 <h3>🌐 Connect With Me:</h3>
 <h3 style="display:flex">
