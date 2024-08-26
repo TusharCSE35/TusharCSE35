@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-# I'm Md Imran Hosen, 
+<img src="https://pbs.twimg.com/profile_banners/1143235591623962624/1724678131/1080x360" alt="Banner Image" width="100%">
 #### Graduated in CSE from Bangabandhu Sheikh Mujibur Rahman University of Science and Technology, Gopalganj-8100, Bangladesh.
 - I'm pationate about C++, Java, JavaScript and React.js.
 - I'm currently learning Node.js
