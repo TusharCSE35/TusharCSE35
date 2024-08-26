@@ -47,14 +47,23 @@
 <h2 align="center">⚡GitHub Stats⚡</h2>
   <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharCSE35&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=TusharCSE35&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharCSE35&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" alt="Top Languages"/>
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=TusharCSE35&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" alt="GitHub Stats"/>
+    </td>
   </tr>
   <tr>
-    <td valign="top"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=TusharCSE35&theme=dark&mode=weekly" alt="GitHub Streak" /></a></td>
-    <td valign="top"><img src="https://activity-graph.herokuapp.com/graph?username=TusharCSE35&bg_color=151515&color=ffffff&line=34abeb&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/></td>
+    <td valign="top">
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=TusharCSE35&theme=dark&mode=weekly" alt="GitHub Streak"/>
+      </a>
+    </td>
+    <td valign="top">
+      <img src="https://activity-graph.herokuapp.com/graph?username=TusharCSE35&bg_color=151515&color=ffffff&line=34abeb&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+    </td>
   </tr>
 </table>
-
 </h2>
 <hr>
