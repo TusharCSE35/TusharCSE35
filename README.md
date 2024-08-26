@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/asp.net-%230081CB.svg?style=flat&logo=dot-net&logoColor=white" alt="ASP.NET" />
+  <img src="https://img.shields.io/badge/asp.net-%235C2D91.svg?style=flat&logo=dot-net&logoColor=white" alt="ASP.NET" />
   <img src="https://img.shields.io/badge/github-121013?style=flat&logo=github&logoColor=white" alt="Github" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
