@@ -8,13 +8,13 @@
 
 <hr>
 
-#### Graduated in CSE from Bangabandhu Sheikh Mujibur Rahman University of Science and Technology, Gopalganj-8100, Bangladesh.
+#### B.Sc. Engineering in CSE from Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj
 
-- I'm passionate about C++, Java, JavaScript, and React.js.
-- I'm currently learning Node.js.
+- I'm passionate about C, C++, c#, Java, JavaScript.
+- I'm currently learning React.js and ASP.NET.
 - I'm a competitive programmer. 💻
-- How to reach me: <a href="mailto:imranhosen.bsmrstu@gmail.com">imranhosen.bsmrstu@gmail.com</a>
-- Here is my <a href="https://imran-me.vercel.app/">Portfolio</a>
+- How to reach me: <a href="mailto:tusharcse35.bsmrstu@gmail.com">tusharcse35.bsmrstu@gmail.com</a>
+- Here is my <a href="https://tushar35portfolio2.netlify.app/">Portfolio</a>
 
 <hr>
 
