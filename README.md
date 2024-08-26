@@ -60,6 +60,9 @@
                 <img src="https://github-readme-streak-stats.herokuapp.com?user=TusharCSE35&theme=dark&mode=weekly" alt="GitHub Streak" />
             </a>
         </td>
+       <td valign="top">
+            <img src="https://github-metrics.leantime.io/api?username=TusharCSE35&theme=dark&show_icons=true" style="width: 100%; max-width: 400px;"/>
+        </td>
     </tr>
 </table>
 </h2>
