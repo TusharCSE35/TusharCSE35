@@ -3,8 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Tushar+Sarkar....;Nice+to+meet+you!&center=true&size=25">
   </a>
 </h1>
-
-# I'm Tushar Sarkar, 
+<hr>
+(https://pbs.twimg.com/profile_banners/1143235591623962624/1724678131/1080x360)
+<hr>
 #### B.Sc. Engineering in CSE from Bangabandhu Sheikh Mujibur Rahman University of Science and Technology, Gopalganj.
 - I'm pationate about C++, Java, c#, JavaScript, React.js, ASP.NET.
 - I'm currently learning ASP.NET
