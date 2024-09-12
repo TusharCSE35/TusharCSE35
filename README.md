@@ -10,7 +10,7 @@
 
 #### B.Sc. Engineering in CSE from Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj
 
-- I'm passionate about C, C++, c#, Java, JavaScript.
+- I'm passionate about C, C++, C#, Java, JavaScript.
 - I'm currently learning React.js and ASP.NET.
 - I'm a competitive programmer. 💻
 - How to reach me: <a href="mailto:tusharcse35.bsmrstu@gmail.com">tusharcse35.bsmrstu@gmail.com</a>
