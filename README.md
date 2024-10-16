@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<img src="https://pbs.twimg.com/profile_banners/1143235591623962624/1724678131/1080x360" alt="Banner Image" width="100%">
+<!-- <img src="https://pbs.twimg.com/profile_banners/1143235591623962624/1724678131/1080x360" alt="Banner Image" width="100%"> -->
 
 <hr>
 
